@@ -1,6 +1,6 @@
 # Projecte 1: Tutorial Django 5.2 - Polls
 
-<p>URL:</storng>https://docs.djangoproject.com/en/5.2/intro/tutorial01/</p>
+<p>URL:</storng> https://docs.djangoproject.com/en/5.2/intro/tutorial01/</p>
 
 ## Funcionalitat afegida a l'admin panel
 
